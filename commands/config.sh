@@ -1,3 +1,0 @@
-config() {
-  cd "$HOME/.config/$*"
-}
